@@ -1,4 +1,5 @@
 ## Hi there 👋
+It's Valkryndor, fullstack developer.
 
 <!--
 **Valkryndor/Valkryndor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
